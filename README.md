@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Jefi Ryan
 - 👀 I’m interested in Artificial Intelligence and App development.
 - 🌱 I’m currently learning app development in Java.
-- 📫 Contact me with - jefiryan282003@gmail.com
+- 📫 You can get in touch at - jefiryan282003@gmail.com
 
 <!---
 Jefi-Ryan/Jefi-Ryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
