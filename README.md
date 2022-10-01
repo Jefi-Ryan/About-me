@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jefi-Ryan
+## 👋 Hi, I’m @Jefi-Ryan
 - 👀 I’m interested in Artificial Intelligence and App development.
 - 🌱 I’m currently learning app development in Java.
 - 📫 You can contact me with this email id - jefiryan282003@gmail.com
