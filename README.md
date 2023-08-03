@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/114754832/193406192-5ccba591-7570-4684-b8cf-f0320774f5f5.svg" width="60"/>
 <img src="https://user-images.githubusercontent.com/114754832/193406230-7c435d99-28ab-475b-9b98-544b50a99083.png" width="60"/>
 <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB-845x684.png" width="70"/>
-<img src="https://back.ksyste.ms/images/stack/kotlin.png" width="50"/>
+<img src="https://back.ksyste.ms/images/stack/kotlin.png" width="45"/>
 <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" width="100"/>
 
 </span>
