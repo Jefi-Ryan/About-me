@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m Jefi Ryan
 - 👀 I’m interested in Artificial Intelligence and App development.
-- 🌱 I’m currently learning app development in Java.
 - 📫 You can get in touch at - jefiryan282003@gmail.com
 
 <!---
