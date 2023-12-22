@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/114754832/193406230-7c435d99-28ab-475b-9b98-544b50a99083.png" width="60"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="60"/>
 <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB-845x684.png" width="70"/>
-<img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer-thumbnail.png" width="70"/>
+<img src="https://th.bing.com/th/id/R.09ba0105b3bc11dac5b7c09443812189?rik=7UmhMl5FciECwQ&riu=http%3a%2f%2famueller.github.io%2fsklearn_014_015_pydata%2fsklearn-logo.png&ehk=%2fdoHlCDrKDgQK%2bMOem6eU3lvCRQHqQrt9J%2f3veiO1Pw%3d&risl=&pid=ImgRaw&r=0" width="70"/>
 <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" width="100"/>
 
 </span>
