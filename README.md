@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" width="55"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/angularjs_original_logo_icon_146649.png" width="55"/>
 <img src="https://pluspng.com/img-png/logo-jquery-png--500.png" width="55"/>
-<img src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png" width="55"/>
+<img src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png" width="60"/>
 <img src="https://asycuda.org/wp-content/uploads/logo-oracle-256.png" width="55"/>
 
 </span>
