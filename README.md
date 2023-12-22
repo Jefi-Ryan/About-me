@@ -26,10 +26,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://miro.medium.com/max/1620/1*b3P4rdrVHMIHbhQXnwRVew.jpeg" width="100" height="60"/>
 <img src="https://www.stemplus.net/wp-content/uploads/2020/07/238-2389846_grided-clipart-array-numpy-in-python.png" width="60"/>
   <img src="https://nutanxt.com/wp-content/uploads/2021/01/logo-seaborn.png" width="60"/>
-<img src="https://i1.wp.com/albertfattal.com/wp-content/uploads/2018/03/Tensorflow_logo.svg.png?resize=1200%2C1283&ssl=1" width="50"/>
-<img src="https://www.probytes.net/wp-content/uploads/2018/10/keras-logo-small-wb-1-300x300.png" width="50"/>
-<img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" width="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/angularjs_original_logo_icon_146649.png" width="50"/>
-  <img src="https://pluspng.com/img-png/logo-jquery-png--500.png" width="50"/>
+<img src="https://i1.wp.com/albertfattal.com/wp-content/uploads/2018/03/Tensorflow_logo.svg.png?resize=1200%2C1283&ssl=1" width="60"/>
+<img src="https://www.probytes.net/wp-content/uploads/2018/10/keras-logo-small-wb-1-300x300.png" width="60"/>
+<img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" width="60"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/angularjs_original_logo_icon_146649.png" width="60"/>
+  <img src="https://pluspng.com/img-png/logo-jquery-png--500.png" width="60"/>
 </span>
 
