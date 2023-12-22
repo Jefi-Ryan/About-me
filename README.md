@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://images.news18.com/optimize/Nrkxz3ZruImdg3N_WzZqHT53ICQ=/534x300/images.news18.com/ibnlive/uploads/534x300/jpg/2019/08/Android_logo.jpg" width="70"/>
 <img src="https://miro.medium.com/max/1620/1*b3P4rdrVHMIHbhQXnwRVew.jpeg" width="100" height="60"/>
 <img src="https://www.stemplus.net/wp-content/uploads/2020/07/238-2389846_grided-clipart-array-numpy-in-python.png" width="60"/>
+  <img src="https://nutanxt.com/wp-content/uploads/2021/01/logo-seaborn.png" width="60"/>
 <img src="https://i1.wp.com/albertfattal.com/wp-content/uploads/2018/03/Tensorflow_logo.svg.png?resize=1200%2C1283&ssl=1" width="50"/>
 <img src="https://www.probytes.net/wp-content/uploads/2018/10/keras-logo-small-wb-1-300x300.png" width="50"/>
 
