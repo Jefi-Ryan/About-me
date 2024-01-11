@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Jefi Ryan
-- 👀 I’m interested in Machine Learning and App development.
+- 👀 I’m interested in Machine learning, Deep learning and App development.
 - 📫 You can get in touch at - jefiryan282003@gmail.com
 
 <!---
